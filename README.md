@@ -15,11 +15,11 @@
 ## ⚙ &nbsp; Github Analytics
 <div>
  <p>
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark" alt="Status"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=carloscunha611&show_icons=true&theme=dark" alt="Status"/>
  </p>
   
   <p>
-    <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark" alt="As linguagens mais usadas."/>
+    <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloscunha611&layout=compact&theme=dark" alt="As linguagens mais usadas."/>
   </p>
 <div>
 
