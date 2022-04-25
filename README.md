@@ -1,14 +1,36 @@
-### Hi there 👋
+<div>
+<h1>Salve! Eu sou Carlos.</h1>
 
-**carloscunha611/carloscunha611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔷 Estou cursando ADS (Análise e Desenvolvimento de Sitemas);
+- 🔷 Atualmete desemvolvo projetos pessoais;
+- 🔷 Todos do projetos estao em desenvolvimento;
+<br><br>
 
-Here are some ideas to get you started:
+## 🛠 &nbsp; Tecnologias que domino
+<p align="left">
+  <img width="75" alt="HTML" src="https://i.picasion.com/pic92/68aa0893c545ead8080e562d1d10be87.gif">
+  <img width="75" alt="CSS" src="https://i.picasion.com/pic92/79f7303b8c4939ace1f206dc6c3c18f6.gif">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## ⚙ &nbsp; Github Analytics
+<div>
+ <p>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark" alt="Status"/>
+ </p>
+  
+  <p>
+    <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark" alt="As linguagens mais usadas."/>
+  </p>
+<div>
+
+## &nbsp; MAIS informaçoes ou rede sociais
+<p align="center">
+  <a href="#/">
+    <img src="#" />
+  </a>
+</p>
+
+## &nbsp; Commits 🐉
+  
+  ![Snake animation](https://github.com/xmagna611/USERNAME/blob/output/github-contribution-grid-snake.svg)
+</div>
