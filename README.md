@@ -1,5 +1,5 @@
 <div>
-<h1>Salve! Eu sou Carlos.</h1>
+<h1><img width="30" src="https://i.picasion.com/pic92/2498751105450bd9d5b96beff82f745c.gif"> Eae! Eu sou o Carlos.</h1>
 
 - 🔷 Estou cursando ADS (Análise e Desenvolvimento de Sitemas);
 - 🔷 Atualmete desenvolvo projetos;
