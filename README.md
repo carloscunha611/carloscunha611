@@ -1,9 +1,9 @@
 <div>
 <h1>Salve! Eu sou Carlos.</h1>
 
-🔷 Estou cursando ADS (Análise e Desenvolvimento de Sitemas);
-🔷 Atualmete desenvolvo projetos;
-🔷 Todos do projetos estao em desenvolvimento;
+-🔷 Estou cursando ADS (Análise e Desenvolvimento de Sitemas);
+-🔷 Atualmete desenvolvo projetos;
+-🔷 Todos do projetos estao em desenvolvimento;
 <br><br>
 
 ## 🛠 &nbsp; Tecnologias que domino
