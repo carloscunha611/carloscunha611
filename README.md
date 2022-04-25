@@ -23,8 +23,14 @@
   </p>
 <div>
 
-## &nbsp; MAIS informaçoes ou rede sociais
-<p align="center">
+## &nbsp; + Tecnologias 
+  <div>
+    <img width="75" alt="SASS" src="https://i.picasion.com/pic92/db8f89864a95cde16f6b13279353a7a5.gif">
+    <img width="75" alt="PS" src="https://i.picasion.com/pic92/6772a33897bbcfed793be78e67090471.gif">
+    - 🔷 Todas as ediçoes ou alteraçoes de arquivos de imagens são feitas por mim, então sei o basico de PS (Photoshop)
+  </div>
+  
+ <p align="center">
   <a href="#/">
     <img src="#" />
   </a>
