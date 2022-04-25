@@ -10,6 +10,8 @@
 <p align="left">
   <img width="75" alt="HTML" src="https://i.picasion.com/pic92/68aa0893c545ead8080e562d1d10be87.gif">
   <img width="75" alt="CSS" src="https://i.picasion.com/pic92/79f7303b8c4939ace1f206dc6c3c18f6.gif">
+  <img width="75" alt="SASS" src="https://i.picasion.com/pic92/db8f89864a95cde16f6b13279353a7a5.gif">
+  <img width="75" alt="PS" src="https://i.picasion.com/pic92/6772a33897bbcfed793be78e67090471.gif">
 </p>
 
 ## ⚙ &nbsp; Github Analytics
@@ -23,18 +25,10 @@
   </p>
 <div>
 
-## &nbsp; + Tecnologias 
+## &nbsp; + info
   <div>
-    <img width="75" alt="SASS" src="https://i.picasion.com/pic92/db8f89864a95cde16f6b13279353a7a5.gif">
-    <img width="75" alt="PS" src="https://i.picasion.com/pic92/6772a33897bbcfed793be78e67090471.gif">
-    - 🔷 Todas as ediçoes ou alteraçoes de arquivos de imagens são feitas por mim, então sei o basico de PS (Photoshop)
+    - 🔷 Sei o o basico de Photoshop, todas as ediçóes ou alteraçoes de arquivos de imagens são feitas por mim.
   </div>
-  
- <p align="center">
-  <a href="#/">
-    <img src="#" />
-  </a>
-</p>
 
 ## &nbsp; Commits 🐉
   
