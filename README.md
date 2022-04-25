@@ -27,7 +27,7 @@
 
 ## &nbsp; + info
   <div>
-    - 🔷 Sei o o basico de Photoshop, todas as ediçóes ou alteraçoes de arquivos de imagens são feitas por mim.
+    - 🔷 Sei o basico de Photoshop, todas as ediçóes ou alteraçoes de arquivos de imagens são feitas por mim.
   </div>
 
 </div>
