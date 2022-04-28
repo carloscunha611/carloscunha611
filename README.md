@@ -12,11 +12,6 @@
   <img width="50" alt="CSS" src="https://i.picasion.com/pic92/79f7303b8c4939ace1f206dc6c3c18f6.gif">
   <img width="50" alt="SASS" src="https://i.picasion.com/pic92/db8f89864a95cde16f6b13279353a7a5.gif">
 </p>
-  
-   
- ## &nbsp; Commits 🔹
-  <div>
-   ![Snake animation](https://github.com/xmagna611/USERNAME/blob/output/github-contribution-grid-snake.svg)</div>
 
 ## ⚙ &nbsp; Github Analytics
 <div>
@@ -37,16 +32,4 @@
   </div>
  
 </div>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+![Snake animation](https://github.com/xmagna611/USERNAME/blob/output/github-contribution-grid-snake.svg)
