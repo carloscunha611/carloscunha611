@@ -32,4 +32,5 @@
   </div>
  
 </div>
-  [![snake animation]](https://github.com/xmagna611/USERNAME/blob/output/github-contribution-grid-snake.svg)
+## &nbsp; Commits 🐍
+  ![snake animation](https://github.com/carloscunha611/carloscunha611/blob/output/github-contribution-grid-snake.svg)
