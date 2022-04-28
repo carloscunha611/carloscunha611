@@ -27,7 +27,10 @@
 
 ## &nbsp; + info
   <div>
-    - 🔷 Sei o basico de Photoshop, todas as ediçóes ou alteraçoes de arquivos de imagens são feitas por mim.
+    - 🔷 Conhecimento de Bulma;
+    - 🔷 Conhecimento de Figma;
+    - 🔷 COnhecimento de Photoshop;
+     
   </div>
 
 </div>
