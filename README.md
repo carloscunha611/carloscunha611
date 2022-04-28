@@ -25,7 +25,7 @@
 <div>
 
 ## &nbsp; + Conhecimentos
-  <div>
+  <div align="left">
     - 🔷 Bulma;
     - 🔷 Figma;
     - 🔷 Photoshop.
