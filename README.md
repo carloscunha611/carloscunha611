@@ -34,6 +34,18 @@
  ## &nbsp; Commits
   <div>
    ![Snake animation](https://github.com/xmagna611/USERNAME/blob/output/github-contribution-grid-snake.svg)
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
   </div>
 </div>
   
