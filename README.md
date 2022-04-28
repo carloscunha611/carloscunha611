@@ -14,7 +14,7 @@
 </p>
 
 ## ⚙ &nbsp; Github Analytics
-<div align="center">
+<div>
  <p>
   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=carloscunha611&show_icons=true&theme=dark" alt="Status"/>
  </p>
@@ -25,7 +25,7 @@
 <div>
 
 ## &nbsp; + Conhecimentos
-  <div align="center">
+  <div>
     - 🔷 Bulma;
     - 🔷 Figma;
     - 🔷 Photoshop.
