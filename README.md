@@ -25,11 +25,11 @@
   </p>
 <div>
 
-## &nbsp; + info
+## &nbsp; + Conhecimentos
   <div>
-    - 🔷 Conhecimento de Bulma;
-    - 🔷 Conhecimento de Figma;
-    - 🔷 COnhecimento de Photoshop;
+    - 🔷 Bulma;
+    - 🔷 Figma;
+    - 🔷 Photoshop;
      
   </div>
 
