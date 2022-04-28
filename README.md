@@ -6,12 +6,11 @@
 - 🔷 Todos do projetos estao em desenvolvimento;
 <br><br>
 
-## 🛠 &nbsp; Tecnologias que domino
+## 🛠 &nbsp; Principais Tecnologias:
 <p align="left">
   <img width="50" alt="HTML" src="https://i.picasion.com/pic92/68aa0893c545ead8080e562d1d10be87.gif">
   <img width="50" alt="CSS" src="https://i.picasion.com/pic92/79f7303b8c4939ace1f206dc6c3c18f6.gif">
   <img width="50" alt="SASS" src="https://i.picasion.com/pic92/db8f89864a95cde16f6b13279353a7a5.gif">
-  <img width="50" alt="PS" src="https://i.picasion.com/pic92/6772a33897bbcfed793be78e67090471.gif">
 </p>
 
 ## ⚙ &nbsp; Github Analytics
