@@ -1,7 +1,7 @@
 <div>
 <h1><img width="30" src="https://i.picasion.com/pic92/2498751105450bd9d5b96beff82f745c.gif"> Eae! Eu sou o Carlos.</h1>
 
-- 🔷 Estou cursando ADS (Análise e Desenvolvimento de Sitemas);
+- 🔷 Estou cursando ADS (Análise e Desenvolvimento de Sistemas);
 - 🔷 Atualmete desenvolvo projetos;
 - 🔷 Todos do projetos estao em desenvolvimento;
 <br><br>
