@@ -33,8 +33,7 @@
   <div>
    <a href='https://www.instagram.com/carloscunha611_/'><img src='https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white'/></a>
    <a href='https://www.linkedin.com/in/carloscunha611/'><img src='https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
-  </br>
-   <a href='https://carloscunha611.github.io/portfolio/'><img src='./.github/logoC.png' width=40 /></a>
+   <a href='https://carloscunha611.github.io/portfolio/'><img src='./.github/logoC.png' width=32 /></a>
   </div>
 
 </div>
