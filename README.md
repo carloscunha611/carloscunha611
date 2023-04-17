@@ -9,7 +9,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width=40/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width=40/>
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width=40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width=40/><!-- 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width = 40/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width=40/> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width=40 />
@@ -31,10 +31,10 @@
 ## &nbsp; + Redes sociais
 
   <div>
-   <a href='https://www.instagram.com/carloscunha.611/'><img src='https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white'/></a>
+   <a href='https://www.instagram.com/carloscunha611_/'><img src='https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white'/></a>
    <a href='https://www.linkedin.com/in/carloscunha611/'><img src='https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
   </br>
-   <!-- <a href='#'><img src='./.github/logoC.png' width=40 /></a> -->
+   <a href='https://carloscunha611.github.io/portfolio/'><img src='./.github/logoC.png' width=40 /></a>
   </div>
 
 </div>
