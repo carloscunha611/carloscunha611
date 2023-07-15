@@ -31,8 +31,10 @@
 ## &nbsp;Redes sociais
 
   <div>
-    <a href='https://www.instagram.com/carloscunha611_/'><img src='https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white'/></a>
-    <a href='https://www.linkedin.com/in/carloscunha611/'><img src='https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
     <a href='https://carloscunha611.github.io/portfolio/'><img src='./.github/logoC.png' width=32 /></a>
+    <a href='https://www.instagram.com/carloscunhajr_/'><img src='.github/logo-instagram.png' width = 32/></a>
+    <a href='https://www.linkedin.com/in/carloscunha611/'><img src='.github/logo-linkedin.png' width =32 /></a>
+    <a href='https://twitter.com/carloscunhajr'><img src='.github/logo-twitter.png' width =32 /></a>
+    
   </div>
 </div>
