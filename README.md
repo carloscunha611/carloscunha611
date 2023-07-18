@@ -27,14 +27,6 @@
       <img width=320 src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloscunha611&layout=compact&theme=dark" alt="As linguagens mais usadas."/>
     </p>
   <div>
-
-## &nbsp;Redes sociais
-
-  <div>
-    <a href='https://carloscunha611.github.io/portfolio/'><img src='./.github/logoC.png' width=32 /></a>
-    <a href='https://www.instagram.com/carloscunhajr_/'><img src='.github/logo-instagram.png' width = 32/></a>
-    <a href='https://www.linkedin.com/in/carloscunha611/'><img src='.github/logo-linkedin.png' width =32 /></a>
-    <a href='https://twitter.com/carloscunhajr'><img src='.github/logo-twitter.png' width =32 /></a>
     
   </div>
 </div>
