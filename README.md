@@ -11,11 +11,11 @@
 <div>
   <div align = 'center'>
     <p>
-      <img width=320 src="https://skillicons.dev/icons?i=js,html,css,react,git,bootstrap,sass,figma,photoshop" alt="As linguagens mais usadas."/>
+      <img width=576 src="https://skillicons.dev/icons?i=js,html,css,react,git,bootstrap,sass,figma,photoshop" alt="As linguagens mais usadas."/>
     </p>
   <div>
 
   <div>
-  <img width=320 height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloscunha611&layout=compact&theme=transparent" alt="As linguagens mais usadas."/>
+  <img width=576 src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloscunha611&layout=compact&theme=transparent" alt="As linguagens mais usadas."/>
   </div>
 </div>
