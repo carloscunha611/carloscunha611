@@ -1,6 +1,6 @@
 <div>
   <div>
-    <h1>Olá, eu sou o Carlos, dev web por dirverção</h1>
+    <h1>Olá, eu sou o Carlos, desenvolvedor web por diversão.</h1>
   </div>
   <p>Desde criança tive com a tecnologia, então tenho muita facilidade para aprender qualquer coisa relacionada a isso. Parece nasci com um chip embutido! Não trabalho na área por questões da vida, mas programar continua sendo um dos meus entretenimentos favoritos. Aqui, você encontrará meus projetos, estudos e algumas criações originais. Fique à vontade para dar uma olhada!</p>
   <small>Em muitos dos meus projetos, busco dar um toque de originalidade, criando layouts e designs próprios usando ferramentas como o Photoshop e o Figma.</small>
